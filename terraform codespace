@@ -1,0 +1,12 @@
+>dev
+add dev container 
+modify your terraform
+ search terraform, aws devcon
+
+terraformgrunt verify symbol
+
+keep defaults devcontainer.json
+
+>rebuild 
+ rebuild contanier
+
